@@ -173,13 +173,19 @@ padding-bottom: 2rem;
 padding-left: 2rem
 }
 
- a.expand {
-    
-    width: 2px;
-    height: 2px;
-    border-radius: 50%;
+ .expand {
+    font-size: 0.25rem;  
+    text-decoration: none;
+   
+    color: #000;
  }
     
+
+
+
+
+
+
 
 
 
