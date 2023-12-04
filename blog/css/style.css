@@ -87,7 +87,7 @@ h1 {
     letter-spacing: 0.25rem;
     transform: rotate(-5deg);
     text-align: center;
-    
+    text-shadow:.09375rem .09375rem .09375rem #000;
 }
 
 .highlight { 
@@ -180,6 +180,9 @@ padding-left: 2rem
     color: #000;
  }
     
+ .expand a:hover {
+    text-transform: none;
+}
 
 
 
